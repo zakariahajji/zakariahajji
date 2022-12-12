@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @ZakariaHajji.
-- 👀 I build data systems.
-- 📫 How to reach me : hajji.opp@gmail.com
+- 👋 Hi, I’m @ZakariaHajji and I build data systems.
 
 <!---
 zakariahajji/zakariahajji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
